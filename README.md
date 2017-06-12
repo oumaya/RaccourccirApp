@@ -4,6 +4,6 @@
 #
 2)import raccourcir_app.sql
 #
-3)sous votre source localhost extract raccourcir_application.rar
+3)sous votre source localhost extract raccourcir_application.zip
 #
 4)http://localhost/raccourcir_application/public
