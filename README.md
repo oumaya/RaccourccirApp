@@ -1,2 +1,2 @@
 # RaccourccirApp
-Nom de la base doit etre : raccourcir_app
+1)creation de la base avec le nom : raccourcir_app
